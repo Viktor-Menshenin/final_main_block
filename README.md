@@ -9,3 +9,4 @@
 ## Блоксхема решения задачи
 ![Блок-схема](bs.png)
 
+##  [Ссылка на проект на GitHub](https://github.com/Viktor-Menshenin/final_main_block)
